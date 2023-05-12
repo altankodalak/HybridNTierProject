@@ -1,0 +1,12 @@
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\bin\Debug\net7.0\Project.COMMON.deps.json
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\bin\Debug\net7.0\Project.COMMON.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\bin\Debug\net7.0\Project.COMMON.pdb
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.AssemblyInfoInputs.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.AssemblyInfo.cs
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\refint\Project.COMMON.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\Project.COMMON.pdb
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.COMMON\obj\Debug\net7.0\ref\Project.COMMON.dll

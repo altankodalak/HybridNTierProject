@@ -1,0 +1,15 @@
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\bin\Debug\net7.0\Project.MAP.deps.json
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\bin\Debug\net7.0\Project.MAP.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\bin\Debug\net7.0\Project.MAP.pdb
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\bin\Debug\net7.0\Project.ENTITIES.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\bin\Debug\net7.0\Project.ENTITIES.pdb
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.AssemblyInfoInputs.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.AssemblyInfo.cs
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.csproj.CopyComplete
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\refint\Project.MAP.dll
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\Project.MAP.pdb
+C:\Users\anıl\Desktop\HybridNTierProject-master\Project.MAP\obj\Debug\net7.0\ref\Project.MAP.dll
